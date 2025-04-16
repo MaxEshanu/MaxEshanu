@@ -1,5 +1,5 @@
 ## Добро пожаловать!
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Максим</a> 
+<h1 align="center">Привет, я <a href="https://t.me/maxEshanu" target="_blank">Максим</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-разработчик</h3>
 <ul></li>👍Я очень люблю работать над интересными проектами и создавать удобные и функциональные сервисы!
