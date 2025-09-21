@@ -22,8 +22,8 @@
 
 <h1 align="center">Мои контакты</h1>
 <ul>
-<li>email: eshanu011@mail.ru</li>
-<li>tg: @maxEshanu</li>
+<li>email: max.es.v@mail.ru</li>
+<li>tg: @esmvikt</li>
 </ul>
 <!--
 **MaxEshanu/MaxEshanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
